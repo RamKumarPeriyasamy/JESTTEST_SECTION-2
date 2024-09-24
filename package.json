@@ -1,0 +1,22 @@
+{
+  "name": "jest-test-basic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "testwatch": "jest --watchAll"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "dependencies": {
+    "anagram": "^0.4.0",
+    "axios": "^1.7.7",
+    "chunk": "^0.0.3",
+    "jest-test-basic": "file:"
+  }
+}
